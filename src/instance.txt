@@ -1,0 +1,15 @@
+Cordelia 400 -830
+Pennington 400 -740
+Hughesville 380 -760
+Nekoosa 440 -890
+Mesquite 320 -960
+Soledad 360 -1210
+KingCity 360 -1210
+Preston 380 -750
+Tocito 360 -1080
+Manson 470 -1200
+VeroBeach 270 -800
+Benson 310 -1100
+Griffin 330 -840
+Cody 440 -1090
+Adrian 410 -840
